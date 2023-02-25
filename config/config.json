@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jongko",
+    "password": null,
+    "database": "react-o-blog_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jongko",
+    "password": null,
+    "database": "react-o-blog_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jongko",
+    "password": null,
+    "database": "react-o-blog_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
